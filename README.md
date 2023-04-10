@@ -1,10 +1,16 @@
 ### Hi there 👋
 I'm Mehmet Fatih. :blush:
+<br />
 ## I'm Fronde-end React Developer
+<br />
 I am working as a Frond-end Developer, using HTML, CSS, JavaScript and React programs effectively.
+<br />
 Thanks to the trainings I received, I developed myself very well and this development continues with each new project.
+<br />
 I love working with a team, I adapt to my team in a short time and try to put forth the best work with my teammates.
+<br />
 I always believe that a good project put forward will be revealed by working with the team.
+<br />
 With what I have learned so far, I have also done projects that will increase work efficiency and speed.
 I love traveling, playing football, going to the cinema, and I want to add color to my life in the field of software.
 <br />
